@@ -1,3 +1,1 @@
-# A Simple CRUD application using React, Node, Express, Mongodb and Mongoose
-
---> A course leason from UDEMY about MEARN STACK
+# A Simple CRUD application using Python Flask and Flask-SQLAlchemy
